@@ -217,7 +217,7 @@ def main():
     for url in config["links"]:
         with sync_playwright() as p:
             browser = p.chromium.launch(headless=True)
-            page = browser.new_page()
+            page = browser.new_page(timezone_id="America/Bogota")
             try:
                 link_slots, label = scan_link(
                     page, url,

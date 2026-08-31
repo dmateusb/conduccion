@@ -1,0 +1,12 @@
+{
+  "ntfy_topic": "",
+  "links": [
+    "https://calendar.app.google/b81b1igpVFw3AYK2A",
+    "https://calendar.app.google/fXFUbopGQrBM2Nna8",
+    "https://calendar.app.google/o3haW3oAK17vDTQj9"
+  ],
+  "min_months_ahead": 2,
+  "max_months_ahead": 4,
+  "min_slots_target": 5,
+  "top_n_nearest": 5
+}

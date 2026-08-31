@@ -1,0 +1,2 @@
+Pausar: launchctl unload ~/Library/LaunchAgents/com.davidmateus.conduccion-monitor.plist → deja de correr, no vuelve a dispararse ni con reinicio.
+Reanudar: launchctl load ~/Library/LaunchAgents/com.davidmateus.conduccion-monitor.plist → lo vuelve a activar (y como tiene RunAtLoad, corre inmediatamente al cargarlo, luego cada 15 min).

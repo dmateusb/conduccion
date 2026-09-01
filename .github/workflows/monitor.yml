@@ -2,7 +2,7 @@ name: Monitor clases disponibles
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "* * * * *"
   workflow_dispatch: {}
 
 permissions:

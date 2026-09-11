@@ -1,8 +1,5 @@
 {
   "seen_slots": [
-    "2026-09-11T12:00:00|https://calendar.app.google/b81b1igpVFw3AYK2A",
-    "2026-09-11T12:00:00|https://calendar.app.google/fXFUbopGQrBM2Nna8",
-    "2026-09-11T12:00:00|https://calendar.app.google/o3haW3oAK17vDTQj9",
     "2026-09-11T13:00:00|https://calendar.app.google/b81b1igpVFw3AYK2A",
     "2026-09-11T13:00:00|https://calendar.app.google/o3haW3oAK17vDTQj9",
     "2026-09-11T14:00:00|https://calendar.app.google/b81b1igpVFw3AYK2A",
@@ -525,5 +522,5 @@
     "2026-10-01T18:00:00|https://calendar.app.google/o3haW3oAK17vDTQj9",
     "2026-10-01T19:00:00|https://calendar.app.google/o3haW3oAK17vDTQj9"
   ],
-  "last_checked": "2026-09-11T11:46:18.313174"
+  "last_checked": "2026-09-11T12:01:14.452736"
 }
